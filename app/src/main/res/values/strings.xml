@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Vinay Music</string>
+    <string name="favorites">Favorites</string>
+    <string name="playlist">Playlists</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="all_songs">All songs</string>
+    <string name="artist">Artists</string>
+    <string name="buy_music">Buy Music</string>
+    <string name="artist_name">AR Rahman</string>
+    <string name="song_title">Thallipogathe</string>
+    <string name="Album_title">Acham enbadhu Madamaiyada</string>
+    <string name="coming_Soon">Coming Soon</string>
+</resources>
